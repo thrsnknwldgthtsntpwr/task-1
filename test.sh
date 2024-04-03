@@ -1,7 +1,7 @@
 #!/bin/bash
 echo 'Hello World'
 echo 'New feature'
-echo 'ALL THE SMALL THINGS'
+echo 'CRAZY TRAIN'
 echo 'ROLLER COASTER'
 echo 'WHATS MY AGE AGAIN'
 echo 'CRAZY TRAIN'
